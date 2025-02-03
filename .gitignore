@@ -1,0 +1,10 @@
+# log files
+*.log
+
+# Ignore build directories
+build/
+assignments/DB_Sql/build
+
+# Ignore MongoDB C/C++ drivers
+assignments/DB_NoSql/mongo-c-driver/
+assignments/DB_NoSql/mongo-cxx-driver/
